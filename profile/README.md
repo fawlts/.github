@@ -11,13 +11,15 @@ FAWLTS is an NGO that bridges the gap between schools and the job market, helpin
 
 ### 🍿 Our programs
 -----
-* Jobs Days
-* School of Sustainability
-* School of Startup
+* Building Communities - create local communities to connect alumni and students from the same school.
+* Jobs Days - one-day fairs where alumni share details about their job and their working career.
+* Schools of Startup, Sustainability and Technology - structured programs which lasts from 3 to 6 moths, taught by young professionals.
 
 
 ### 👩‍💻 Join us!
 -----
-* Frontend Engineer
-* Backend Engineer
-* DevOps Engineer
+We are currently looking for engineers to work pro bono for building up the FAWLTS Platform!
+
+* Frontend Engineer - work on our presentation layer with HTML, CSS and ReactJS
+* Backend Engineer - help us designing our API, using NestJS and MongoDB
+* DevOps Engineer - create CI/CD workflows and design and improve our infrastructure
