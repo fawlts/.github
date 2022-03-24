@@ -21,5 +21,5 @@ FAWLTS is an NGO that bridges the gap between schools and the job market, helpin
 We are currently looking for engineers to work pro bono for building up the FAWLTS Platform!
 
 * Frontend Engineer - work on our presentation layer with HTML, CSS and ReactJS
-* Backend Engineer - help us designing our API, using NestJS and MongoDB
-* DevOps Engineer - create CI/CD workflows and design and improve our infrastructure
+* Backend Engineer - help us designing our API, using NestJS, GraphQL and MongoDB
+* DevOps Engineer - create CI/CD workflows and design and improve our K8s infrastructure
